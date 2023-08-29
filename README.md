@@ -1,4 +1,4 @@
 # my-first-repository
 I am using this to follow the course 
 
-README.md file was edited. This file was modified locally
+this line was modifed manually during conflict resolution in VScode
